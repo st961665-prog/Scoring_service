@@ -1,5 +1,4 @@
-```markdown
-# 🏦 Credit Scoring Service
+# 🏦 Credit Scoring System with Logistic Regression & Streamlit
 
 A microservice-based credit scoring system that evaluates loan eligibility using a Logistic Regression model. The project consists of a **FastAPI** backend for model inference and a **Streamlit** frontend for user interaction.
 
